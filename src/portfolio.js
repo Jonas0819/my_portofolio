@@ -309,7 +309,7 @@ const certifications = {
       subtitle: "Web Layout",
       logo_path: "hackathon1.png",
       certificate_link:
-        "https://drive.google.com/file/d/1hnnpgiyxDmddglTZqUhf1ak0KBMHRT2H/view?usp=sharing",
+        "https://www.freecodecamp.org/certification/Jonas-Roman-Espaillat/responsive-web-design",
       alt_name: "Responsive",
       color_code: "#F2EAD5",
     },
@@ -318,7 +318,7 @@ const certifications = {
       subtitle: "APIs Rest",
       logo_path: "hackathon2.png",
       certificate_link:
-        "https://drive.google.com/file/d/1axa5M7DN8U3YTKpZCfLHIXbNh2rCyIt6/view?usp=sharing",
+        "https://www.freecodecamp.org/certification/Jonas-Roman-Espaillat/back-end-development-and-apis",
       alt_name: "APIs",
       color_code: "#F0FCE3",
     },
@@ -337,7 +337,7 @@ const certifications = {
       subtitle: "Git for Beginners",
       logo_path: "HakinCodes.jfif",
       certificate_link:
-        "https://drive.google.com/file/d/1JG5uygj1vQaIs7rjrdqhyXczMGfuQ60W/view?usp=sharing",
+        "https://www.eduonix.com/certificate/05adeeec87",
       alt_name: "Git",
       color_code: "#fefd7b",
     },
