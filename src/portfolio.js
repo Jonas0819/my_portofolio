@@ -23,7 +23,7 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/Jonas0819",
-  linkedin: "https://www.linkedin.com/in/jonas-roman-760887221/",
+  linkedin: "https://www.linkedin.com/in/jonas-roman-251373208/",
   gmail: "jonasroman0819@gmail.com",
   // gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/JonasGroman",
