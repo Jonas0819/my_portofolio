@@ -462,10 +462,22 @@ const experience = {
           title: "RoverSport",
           company: "Rover",
           company_url: "#",
-          logo_path: "CFC.jfif",
-          duration: "Dic 2019 - Marzo 2020",
+          logo_path: "rover.jfif",
+          duration: "Dic 2019 - Marzo 2021",
           location: "Stg, RD",
-          description: `in the Tic area helping in what I could since I entered as Jr but due to the pandemic it closed in my country
+          description: `I joined as a lineman and then they gave me the opportunity to layout and design some of their web pages, using HTML, CSS, JavaScript
+          `,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#0071C5",
+        },
+        {
+          title: "Lytics RYE",
+          company: "Lytics RYE MX",
+          company_url: "https://www.lytics.mx/",
+          logo_path: "logotipo.fd9b0e67.jfif",
+          duration: "Octubre 2022 - Enero 2024",
+          location: "Remote MX",
+          description: `Currently developing Odoo modules, company websites, cloud projects with AWS, EC2, Amplify, React, TailwindCSS, DynamoDB, Lambda, Docker, etc...
           `,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
