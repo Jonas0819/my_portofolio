@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Jonás Román",
   subTitle: "Full Stack Developer, Open Source Enthusiast, Life Long Learner. ",
   resumeLink:
-    "https://drive.google.com/file/d/1OPzaUVVb39Pb0o7Q9lfygUIoH0r_wg8J/view?usp=sharing",
+    "https://drive.google.com/file/d/1Z0N6cDHHSdj0ejvFbrrEi2pXfzD4kBVb/view?usp=sharing",
   mail: "jonasroman0819@gmail.com",
 };
 
@@ -573,7 +573,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, JavaScript Scripts, and React Project. Below are some of my projects. ",
+    "My projects use a wide variety of cutting-edge tools. My best experience is creating React, TailwindCSS, AWS Lambda and DynamoDB projects. Below are demos of some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -598,126 +598,156 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "Web Page Responsive",
-      url: "https://github.com/Jonas0819/web-page.github.io",
-      description: "Responsive Web Page Using Css Grid",
+      name: "Web Application, POS",
+      url: "https://main.dzfmldmaoygyg.amplifyapp.com/",
+      description: "POS",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "React",
+          iconifyClass: "logos-react",
         },
         {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "TailwindCSS",
+          iconifyClass: "devicon:tailwindcss",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "JQuery",
+          iconifyClass: "devicon:jquery",
         },
+
       ],
     },
     {
       id: "1",
-      name: "Tribute Page Camp",
-      url: "https://github.com/Jonas0819/tribuge-page.github.io",
-      description: "Tribute Page Dr. Norman Borlaug",
+      name: "Web Application, Ticket office",
+      url: "https://main.dzfmldmaoygyg.amplifyapp.com/boleteria",
+      description: "Ticket office",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "React",
+          iconifyClass: "logos-react",
         },
         {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "TailwindCSS",
+          iconifyClass: "devicon:tailwindcss",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "Lambda",
+          iconifyClass: "logos:aws-lambda",
         },
+        {
+          name: "DynamoDB",
+          iconifyClass: "devicon:dynamodb",
+        }
       ],
     },
     {
       id: "2",
-      name: "Techical Documentation",
-      url: "https://github.com/Jonas0819/technical-documentation.github.io",
-      description: "Javascript Documentation Page ",
+      name: "Web Analytics Application",
+      url: "https://www.awsdata.dev/estadisticas",
+      description: "Analytics",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "React",
+          iconifyClass: "logos-react",
         },
         {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "TailwindCSS",
+          iconifyClass: "devicon:tailwindcss",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "Lambda",
+          iconifyClass: "logos:aws-lambda",
         },
+        {
+          name: "DynamoDB",
+          iconifyClass: "devicon:dynamodb",
+        }
+      ],
+    },
+    {
+      id: "3",
+      name: "Web Scan QR Application",
+      url: "https://www.metropolitana.awsdata.dev/",
+      description: "Scan QR ",
+      languages: [
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
         },
-      ],
-    },
-    {
-      id: "3",
-      name: "Page Forms",
-      url: "https://github.com/Jonas0819/survey-form.github.io",
-      description: "Survey form codecamp",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        }
+      
       ],
     },
     {
       id: "4",
-      name: "Product landing",
-      url: "https://github.com/Jonas0819/product-landing-page.github.io",
-      description: "Product landing",
+      name: "Web Page Landing Page AWS",
+      url: "https://www.awsdata.dev/",
+      description: "Page AWS",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "NextJS",
+          iconifyClass: "skill-icons:nextjs-dark",
         },
         {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "TailwindCSS",
+          iconifyClass: "devicon:tailwindcss",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "Lambda",
+          iconifyClass: "logos:aws-lambda",
+        },
+        {
+          name: "SES Mail",
+          iconifyClass: "logos:aws-ses",
         },
       ],
     },
     {
-      id: "3",
-      name: "Portafolio",
-      url: "https://github.com/Jonas0819/Portfolio",
-      description: "My Portafolio",
+      id: "5",
+      name: "Web Page Landing Page Odoo",
+      url: "https://www.odoodevs.com/",
+      description: "Page Odoo",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "NextJS",
+          iconifyClass: "skill-icons:nextjs-dark",
         },
         {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          name: "TailwindCSS",
+          iconifyClass: "devicon:tailwindcss",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "Lambda",
+          iconifyClass: "logos:aws-lambda",
         },
+        {
+          name: "SES Mail",
+          iconifyClass: "logos:aws-ses",
+        },
+      ],
+    },
+    {
+      id: "6",
+      name: "Web Page Landing Page Expo",
+      url: "https://www.odoodevs.com/expo",
+      description: "Page Expo",
+      languages: [
+        {
+          name: "NextJS",
+          iconifyClass: "skill-icons:nextjs-dark",
+        },
+        {
+          name: "TailwindCSS",
+          iconifyClass: "devicon:tailwindcss",
+        }
       ],
     } /*
     {
