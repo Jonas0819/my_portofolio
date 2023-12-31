@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Jonás Román",
   subTitle: "Full Stack Developer, Open Source Enthusiast, Life Long Learner. ",
   resumeLink:
-    "https://drive.google.com/file/d/14gLf_pmdpsG6_jq9Vg-7l53IDA-4z6zo/view?usp=sharing",
+    "https://drive.google.com/file/d/1OPzaUVVb39Pb0o7Q9lfygUIoH0r_wg8J/view?usp=sharing",
   mail: "jonasroman0819@gmail.com",
 };
 
@@ -290,12 +290,12 @@ const degrees = {
       subtitle: "Bachelors in Computer Science and Engineering",
       logo_path: "SRM_Logo.png",
       alt_name: "SSEC",
-      duration: "2019 - 2023",
+      duration: "2019 - 2024",
       descriptions: [
-        "⚡  I'm currently pursuing my Bachelors in Computer Science and Engineering.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡  I'm currently in the 10th quarter pursuing my Bachelor's Degree in Computer Science and Engineering.",
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
       website_link: "https://www.uapa.edu.do/",
     },
@@ -370,13 +370,13 @@ const certifications = {
       color_code: "#2AAFED",
     },*/,
     {
-      title: "Desarrollo Web I",
-      subtitle: "Web I",
-      logo_path: "google_logo.png",
+      title: "AWS Cloud Practitioner",
+      subtitle: "Cloud Practitioner",
+      logo_path: "aws_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/1bxwa4kGtx1ArOxBfJ1HrCKQkhoIktMSJ/view?usp=sharing",
+        "https://drive.google.com/file/d/1JD5M6hTbg5hnWyJHFwLr4W_nIHdiS-UF/view?usp=sharing",
       alt_name: "DesarrolloI",
-      color_code: "#78C8FA",
+      color_code: "#252D39",
     },
     {
       title: "Desarrollo Web II",
@@ -449,10 +449,10 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  title: "Work Experience",
+  subtitle: "",
   description:
-    "I have completed an internship. I have mostly done projects on my own and am actively looking for internships. I love sharing my knowledge with others.",
+    "Managed several key Amazon Web Services (AWS) services during these 2 years such as EC2, S3, Lambda, RDS, DMS, CloudFront,DynamoDB. Additionally, he developed web pages using React and Tailwind CSS. These responsibilities have strengthened my ability to design, implement and maintain cloud solutions, contributing to the success of technological projects.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -461,10 +461,10 @@ const experience = {
         {
           title: "RoverSport",
           company: "Rover",
-          company_url: "",
+          company_url: "#",
           logo_path: "CFC.jfif",
           duration: "Dic 2019 - Marzo 2020",
-          location: "Remote",
+          location: "Stg, RD",
           description: `in the Tic area helping in what I could since I entered as Jr but due to the pandemic it closed in my country
           `,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
@@ -478,14 +478,25 @@ const experience = {
         {
           title: "UAPA",
           company: "UAPA",
-          company_url: "https://www.webarchsrm.com/",
+          company_url: "https://www.uapa.edu.do/mi-uapa/",
           logo_path: "Webarch.jfif",
           duration: "Mar 2020 - Nov 2020",
-          location: "SRM IST Kattankulathur",
+          location: "Stg, RD",
           description:
             "Member responsibilities were to help students in project planning, review issues and pull requests, ensure smooth progress and help juniors out in their difficulties.",
           color: "#4285F4",
-        } /* 
+        },
+        {
+          title: "UAPA",
+          company: "Impact of AI Seminar",
+          company_url: "https://drive.google.com/file/d/1Jxyw2Hcqi9YnhPEUY-_3FUeHhp9UCRD9/view?usp=sharing",
+          logo_path: "Webarch.jfif",
+          duration: "Jul 2023 - Aug 2023",
+          location: "Stg, RD",
+          description:
+            "During my speech, I explored the current and future implications of AI in various sectors, highlighting its influence on digital transformation and the change of paradigms in decision making.",
+          color: "#4285F4",
+        } /*
         {
           title: "Campus Leader",
           company: "Code For Cause",
@@ -554,7 +565,7 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-// Contact Page
+// Contact Pagef
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
@@ -565,7 +576,7 @@ const contactPageData = {
   blogSection: {
     title: "About",
     subtitle:
-      " I'm Jonás Román Espaillat I'm 21 years old I'm studying Software engineering I've been at university for 2 years I'm passionate about Games and programming I have the ability to learn new things quickly",
+      " I'm Jonás Román Espaillat I'm 23 years old, I study software engineering, I have been at university for 3 years, I am passionate about video games and programming, I have the ability to learn new things quickly.",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
