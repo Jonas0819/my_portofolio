@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67f264361ecce0efdf4d28d41c8e2bb5",
+    "revision": "09388815da98d5c17ca127116e595ee5",
     "url": "/my_portofolio/index.html"
   },
   {
-    "revision": "3f75a6b224f34345c8f9",
+    "revision": "cf3b3a279e2808e99817",
     "url": "/my_portofolio/static/css/main.e43fcbf5.chunk.css"
   },
   {
-    "revision": "9fc0ec40a3c2b10e3397",
-    "url": "/my_portofolio/static/js/2.91db50b2.chunk.js"
+    "revision": "3cb4f6765d9c6f91ea5b",
+    "url": "/my_portofolio/static/js/2.5b7c73ef.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/my_portofolio/static/js/2.91db50b2.chunk.js.LICENSE.txt"
+    "url": "/my_portofolio/static/js/2.5b7c73ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f75a6b224f34345c8f9",
-    "url": "/my_portofolio/static/js/main.440d9f0c.chunk.js"
+    "revision": "cf3b3a279e2808e99817",
+    "url": "/my_portofolio/static/js/main.49b8d094.chunk.js"
   },
   {
     "revision": "a94cd34868f68c2ecef0",
@@ -172,6 +172,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my_portofolio/static/media/ia_lg.87ce6074.PNG"
   },
   {
+    "revision": "034dc610f9bbdd7db297a9474560226c",
+    "url": "/my_portofolio/static/media/logotipo.fd9b0e67.034dc610.jfif"
+  },
+  {
     "revision": "bc5cfd3a887013976863247e66c389a2",
     "url": "/my_portofolio/static/media/mlh-logo.bc5cfd3a.svg"
   },
@@ -186,5 +190,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5412296673dca7a2f6bd8c5fa565362b",
     "url": "/my_portofolio/static/media/profile_photo_2.54122966.jpg"
+  },
+  {
+    "revision": "65266411795977050e97c31bacf2f5cb",
+    "url": "/my_portofolio/static/media/rover.65266411.jfif"
   }
 ]);

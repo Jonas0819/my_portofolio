@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my_portofolio/static/css/main.e43fcbf5.chunk.css",
-    "main.js": "/my_portofolio/static/js/main.440d9f0c.chunk.js",
-    "main.js.map": "/my_portofolio/static/js/main.440d9f0c.chunk.js.map",
+    "main.js": "/my_portofolio/static/js/main.49b8d094.chunk.js",
+    "main.js.map": "/my_portofolio/static/js/main.49b8d094.chunk.js.map",
     "runtime-main.js": "/my_portofolio/static/js/runtime-main.d2335092.js",
     "runtime-main.js.map": "/my_portofolio/static/js/runtime-main.d2335092.js.map",
-    "static/js/2.91db50b2.chunk.js": "/my_portofolio/static/js/2.91db50b2.chunk.js",
-    "static/js/2.91db50b2.chunk.js.map": "/my_portofolio/static/js/2.91db50b2.chunk.js.map",
+    "static/js/2.5b7c73ef.chunk.js": "/my_portofolio/static/js/2.5b7c73ef.chunk.js",
+    "static/js/2.5b7c73ef.chunk.js.map": "/my_portofolio/static/js/2.5b7c73ef.chunk.js.map",
     "index.html": "/my_portofolio/index.html",
-    "precache-manifest.7b769e57349e5e972c09a9c43e27ee92.js": "/my_portofolio/precache-manifest.7b769e57349e5e972c09a9c43e27ee92.js",
+    "precache-manifest.e282679c30dd136c032c0046cd281837.js": "/my_portofolio/precache-manifest.e282679c30dd136c032c0046cd281837.js",
     "service-worker.js": "/my_portofolio/service-worker.js",
     "static/css/main.e43fcbf5.chunk.css.map": "/my_portofolio/static/css/main.e43fcbf5.chunk.css.map",
-    "static/js/2.91db50b2.chunk.js.LICENSE.txt": "/my_portofolio/static/js/2.91db50b2.chunk.js.LICENSE.txt",
+    "static/js/2.5b7c73ef.chunk.js.LICENSE.txt": "/my_portofolio/static/js/2.5b7c73ef.chunk.js.LICENSE.txt",
     "static/media/index.css": "/my_portofolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CFC.jfif": "/my_portofolio/static/media/CFC.71eef4be.jfif",
     "static/media/GCS.jfif": "/my_portofolio/static/media/GCS.c68e2fd2.jfif",
@@ -28,15 +28,17 @@
     "static/media/hackathon1.png": "/my_portofolio/static/media/hackathon1.d9d29e23.png",
     "static/media/hackathon2.png": "/my_portofolio/static/media/hackathon2.f7b5b075.png",
     "static/media/ia_lg.PNG": "/my_portofolio/static/media/ia_lg.87ce6074.PNG",
+    "static/media/logotipo.fd9b0e67.jfif": "/my_portofolio/static/media/logotipo.fd9b0e67.034dc610.jfif",
     "static/media/mlh-logo.svg": "/my_portofolio/static/media/mlh-logo.bc5cfd3a.svg",
     "static/media/mlh.png": "/my_portofolio/static/media/mlh.53dd27a8.png",
     "static/media/mongo.png": "/my_portofolio/static/media/mongo.d324ee17.png",
-    "static/media/profile_photo_2.jpg": "/my_portofolio/static/media/profile_photo_2.54122966.jpg"
+    "static/media/profile_photo_2.jpg": "/my_portofolio/static/media/profile_photo_2.54122966.jpg",
+    "static/media/rover.jfif": "/my_portofolio/static/media/rover.65266411.jfif"
   },
   "entrypoints": [
     "static/js/runtime-main.d2335092.js",
-    "static/js/2.91db50b2.chunk.js",
+    "static/js/2.5b7c73ef.chunk.js",
     "static/css/main.e43fcbf5.chunk.css",
-    "static/js/main.440d9f0c.chunk.js"
+    "static/js/main.49b8d094.chunk.js"
   ]
 }
