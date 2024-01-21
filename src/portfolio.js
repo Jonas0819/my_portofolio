@@ -28,7 +28,7 @@ const socialMediaLinks = {
   // gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/JonasGroman",
   twitter: "https://twitter.com/JonasRoman7",
-  instagram: "https://www.instagram.com/jonas_o_roman/",
+  /*instagram: "https://www.instagram.com/jonas_o_roman/"*/
 };
 
 const skills = {
