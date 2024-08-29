@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbb2aa931c96e6de667f044b68266f23",
+    "revision": "8a2cfc6d814574a5d327fa5aa6fab5e4",
     "url": "/my_portofolio/index.html"
   },
   {
-    "revision": "7316b2d8ef7c97274aa8",
-    "url": "/my_portofolio/static/css/main.e43fcbf5.chunk.css"
+    "revision": "989bc34ff96aad254c55",
+    "url": "/my_portofolio/static/css/main.b437d947.chunk.css"
   },
   {
     "revision": "3cb4f6765d9c6f91ea5b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my_portofolio/static/js/2.5b7c73ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7316b2d8ef7c97274aa8",
-    "url": "/my_portofolio/static/js/main.0cbf4bf4.chunk.js"
+    "revision": "989bc34ff96aad254c55",
+    "url": "/my_portofolio/static/js/main.ca365e65.chunk.js"
   },
   {
     "revision": "a94cd34868f68c2ecef0",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my_portofolio/static/media/fa-brands-400.5063b105.eot"
   },
   {
-    "revision": "a9c4bb7348f42626454c988dbde1d0a0",
-    "url": "/my_portofolio/static/media/fa-brands-400.a9c4bb73.svg"
+    "revision": "9d204f50ec8e5bcc5dcda0132d404b48",
+    "url": "/my_portofolio/static/media/fa-brands-400.9d204f50.svg"
   },
   {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my_portofolio/static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
-    "url": "/my_portofolio/static/media/fa-regular-400.7b9568e6.svg"
+    "revision": "9443c1e7fdf95d739af3f0901224f90a",
+    "url": "/my_portofolio/static/media/fa-regular-400.9443c1e7.svg"
   },
   {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
@@ -148,16 +148,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my_portofolio/static/media/fa-solid-900.333bae20.woff"
   },
   {
+    "revision": "3d102342391af184d5ae9e7708d8220f",
+    "url": "/my_portofolio/static/media/fa-solid-900.3d102342.svg"
+  },
+  {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
     "url": "/my_portofolio/static/media/fa-solid-900.44d537ab.woff2"
   },
   {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/my_portofolio/static/media/fa-solid-900.8e4a6dcc.eot"
-  },
-  {
-    "revision": "c2801fb415f03c7b170934769d7b5397",
-    "url": "/my_portofolio/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
     "revision": "d9d29e2312ee39bb3f588445edba977f",

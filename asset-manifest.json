@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my_portofolio/static/css/main.e43fcbf5.chunk.css",
-    "main.js": "/my_portofolio/static/js/main.0cbf4bf4.chunk.js",
-    "main.js.map": "/my_portofolio/static/js/main.0cbf4bf4.chunk.js.map",
+    "main.css": "/my_portofolio/static/css/main.b437d947.chunk.css",
+    "main.js": "/my_portofolio/static/js/main.ca365e65.chunk.js",
+    "main.js.map": "/my_portofolio/static/js/main.ca365e65.chunk.js.map",
     "runtime-main.js": "/my_portofolio/static/js/runtime-main.d2335092.js",
     "runtime-main.js.map": "/my_portofolio/static/js/runtime-main.d2335092.js.map",
     "static/js/2.5b7c73ef.chunk.js": "/my_portofolio/static/js/2.5b7c73ef.chunk.js",
     "static/js/2.5b7c73ef.chunk.js.map": "/my_portofolio/static/js/2.5b7c73ef.chunk.js.map",
     "index.html": "/my_portofolio/index.html",
-    "precache-manifest.563e837651eb7d8a451a8aea54cd265c.js": "/my_portofolio/precache-manifest.563e837651eb7d8a451a8aea54cd265c.js",
+    "precache-manifest.dcba9b5b740165c08905a333d96460ea.js": "/my_portofolio/precache-manifest.dcba9b5b740165c08905a333d96460ea.js",
     "service-worker.js": "/my_portofolio/service-worker.js",
-    "static/css/main.e43fcbf5.chunk.css.map": "/my_portofolio/static/css/main.e43fcbf5.chunk.css.map",
+    "static/css/main.b437d947.chunk.css.map": "/my_portofolio/static/css/main.b437d947.chunk.css.map",
     "static/js/2.5b7c73ef.chunk.js.LICENSE.txt": "/my_portofolio/static/js/2.5b7c73ef.chunk.js.LICENSE.txt",
     "static/media/index.css": "/my_portofolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CFC.jfif": "/my_portofolio/static/media/CFC.71eef4be.jfif",
@@ -24,7 +24,7 @@
     "static/media/Technocolabs.jfif": "/my_portofolio/static/media/Technocolabs.dfdfd929.jfif",
     "static/media/Webarch.jfif": "/my_portofolio/static/media/Webarch.0ea33a80.jfif",
     "static/media/aws_logo.png": "/my_portofolio/static/media/aws_logo.8845b177.png",
-    "static/media/all.css": "/my_portofolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/all.css": "/my_portofolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/hackathon1.png": "/my_portofolio/static/media/hackathon1.d9d29e23.png",
     "static/media/hackathon2.png": "/my_portofolio/static/media/hackathon2.f7b5b075.png",
     "static/media/ia_lg.PNG": "/my_portofolio/static/media/ia_lg.87ce6074.PNG",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.d2335092.js",
     "static/js/2.5b7c73ef.chunk.js",
-    "static/css/main.e43fcbf5.chunk.css",
-    "static/js/main.0cbf4bf4.chunk.js"
+    "static/css/main.b437d947.chunk.css",
+    "static/js/main.ca365e65.chunk.js"
   ]
 }
