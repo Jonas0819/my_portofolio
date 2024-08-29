@@ -294,8 +294,8 @@ const degrees = {
       descriptions: [
         "⚡  I'm currently in the 10th quarter pursuing my Bachelor's Degree in Computer Science and Engineering.",
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
       website_link: "https://www.uapa.edu.do/",
     },
@@ -312,6 +312,15 @@ const certifications = {
         "https://www.freecodecamp.org/certification/Jonas-Roman-Espaillat/responsive-web-design",
       alt_name: "Responsive",
       color_code: "#F2EAD5",
+    },
+    {
+      title: "AWS Solutions Architect",
+      subtitle: "Solutions Architect Associate",
+      logo_path: "aws_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1SSxbYz6sWP_mdoGfCtRSlGEcLC2HJgfo/view?usp=sharing",
+      alt_name: "DesarrolloI",
+      color_code: "#252D39",
     },
     {
       title: "Back End Development and APIs ",
@@ -336,8 +345,7 @@ const certifications = {
       title: "Git",
       subtitle: "Git for Beginners",
       logo_path: "HakinCodes.jfif",
-      certificate_link:
-        "https://www.eduonix.com/certificate/05adeeec87",
+      certificate_link: "https://www.eduonix.com/certificate/05adeeec87",
       alt_name: "Git",
       color_code: "#fefd7b",
     },
@@ -501,7 +509,8 @@ const experience = {
         {
           title: "UAPA",
           company: "Impact of AI Seminar",
-          company_url: "https://drive.google.com/file/d/1Jxyw2Hcqi9YnhPEUY-_3FUeHhp9UCRD9/view?usp=sharing",
+          company_url:
+            "https://drive.google.com/file/d/1Jxyw2Hcqi9YnhPEUY-_3FUeHhp9UCRD9/view?usp=sharing",
           logo_path: "Webarch.jfif",
           duration: "Jul 2023 - Aug 2023",
           location: "Stg, RD",
@@ -614,7 +623,6 @@ const projects = {
           name: "JQuery",
           iconifyClass: "devicon:jquery",
         },
-
       ],
     },
     {
@@ -638,7 +646,7 @@ const projects = {
         {
           name: "DynamoDB",
           iconifyClass: "devicon:dynamodb",
-        }
+        },
       ],
     },
     {
@@ -662,7 +670,7 @@ const projects = {
         {
           name: "DynamoDB",
           iconifyClass: "devicon:dynamodb",
-        }
+        },
       ],
     },
     {
@@ -682,8 +690,7 @@ const projects = {
         {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
-        }
-      
+        },
       ],
     },
     {
@@ -747,7 +754,7 @@ const projects = {
         {
           name: "TailwindCSS",
           iconifyClass: "devicon:tailwindcss",
-        }
+        },
       ],
     } /*
     {
